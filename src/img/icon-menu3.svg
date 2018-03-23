@@ -1,0 +1,16 @@
+<svg width="18" height="22" viewBox="0 0 18 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-5800 -1407)">
+<g id="Group">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(5800 1407)" fill="#66BB6A"/>
+</g>
+<g id="Path">
+<use xlink:href="#path1_fill" transform="translate(5800.73 1408.13)" fill="#66BB6A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 18 4L 9 0L 0 4L 0 10C 0 15.55 3.83984 20.74 9 22C 14.1602 20.74 18 15.55 18 10L 18 4ZM 2 10L 2 5.29968L 9 2.1886L 16 5.29968L 16 10C 16 14.4954 12.9888 18.6965 9 19.926C 5.01123 18.6965 2 14.4954 2 10Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0.178979 3.53629L 8.26666 0L 8.26666 19.9896C 8.26666 19.9896 1.1727 16.792 0.445209 11.6851C -0.282281 6.5782 0.178979 3.53629 0.178979 3.53629Z"/>
+</defs>
+</svg>

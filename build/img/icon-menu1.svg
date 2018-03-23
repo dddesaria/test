@@ -1,0 +1,32 @@
+<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-5797 -1320)">
+<g id="Group 11">
+<g id="Fill 550 + Fill 551 + Fill 552">
+<g id="Fill 550">
+<use xlink:href="#path0_fill" transform="translate(5807 1321.2)" fill="#66BB6A"/>
+</g>
+<g id="Fill 551">
+<use xlink:href="#path1_fill" transform="translate(5799 1326.2)" fill="#66BB6A"/>
+</g>
+<g id="Fill 552">
+<use xlink:href="#path2_fill" transform="translate(5803 1326.2)" fill="#66BB6A"/>
+</g>
+</g>
+<g id="Rectangle 5" opacity="0.01">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="translate(5797 1320)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="translate(5797 1320)" fill="#979797"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4 2C 4 0.895 3.104 0 2 0C 0.896 0 0 0.895 0 2L 0 4L 4 4L 4 2Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 7 5.939L 12.939 0L 1 0C 0.448 0 0 0.447 0 1C 0 1.552 0.448 2 1 2L 2.5 2L 2.724 2.447C 2.893 2.786 3.239 3 3.618 3L 7 3L 7 5.939Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 14.9999 0L 11.0599 0L 2.9999 8.06L 2.9999 14L 1.3329 14C 0.902898 14 0.520898 14.275 0.384898 14.684L 0.050898 15.684C -0.050102 15.989 0.000897974 16.324 0.188898 16.585C 0.376898 16.845 0.678898 17 0.999898 17L 10.9999 17C 11.3209 17 11.6229 16.845 11.8109 16.585C 11.9989 16.324 12.0499 15.989 11.9489 15.684L 11.6149 14.684C 11.4789 14.275 11.0969 14 10.6669 14L 8.9999 14L 8.9999 3L 12.3819 3C 12.7609 3 13.1069 2.786 13.2759 2.447L 13.4999 2L 14.9999 2C 15.5519 2 15.9999 1.552 15.9999 1C 15.9999 0.447 15.5519 0 14.9999 0Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 0 0L 24 0L 24 24L 0 24L 0 0Z"/>
+<path id="path4_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 24 0L 25 0L 25 -1L 24 -1L 24 0ZM 24 24L 24 25L 25 25L 25 24L 24 24ZM 0 24L -1 24L -1 25L 0 25L 0 24ZM 0 1L 24 1L 24 -1L 0 -1L 0 1ZM 23 0L 23 24L 25 24L 25 0L 23 0ZM 24 23L 0 23L 0 25L 24 25L 24 23ZM 1 24L 1 0L -1 0L -1 24L 1 24Z"/>
+</defs>
+</svg>

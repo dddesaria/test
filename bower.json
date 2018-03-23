@@ -1,0 +1,23 @@
+{
+  "name": "dtest",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "dddesaria@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "jquery-slimscroll": "slimscroll#^1.3.8"
+  }
+}

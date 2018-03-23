@@ -1,0 +1,67 @@
+        footer.bg-dark
+
+            .wall-fixed
+                .wall-fixed__img
+
+                .container.wall-fixed__content
+
+                    form.form-callback
+                        .main-heading Форма обратной связи
+
+                        .grid-3.form-callback__grid
+
+                            .form-group
+                                .form-label Имя
+                                input(type="text" placeholder="Как к вам обращаться?").form-input.form-input_block
+
+                            .form-group
+                                .form-label Телефон
+                                input(type="tel" placeholder="+7 ___ __ __").form-input.form-input_block
+
+                            .form-group
+                                .form-label Тип обращения
+                                select.form-input.form-input_block
+                                    option Предложение
+                                    option Вопрос
+
+                        .form-group
+                            textarea(placeholder="Введите сюда ваш текст").form-area.form-input_block
+
+                        .tx-center
+                            input(type="submit", value="Отправить").btn-lg.btn-primary.form-submit
+
+                    .tx-center.m-40
+                        include img/logo-invert.svg
+                    .borderline
+
+                    .contacts-info
+                        .grid-3
+
+                            .contacts-info__element
+                                i.contacts-info__icon.icon-placeholder
+                                .clr-gray Литейный пр., 25, к. 2
+
+                            .contacts-info__element
+                                i.contacts-info__icon.icon-phone
+                                .clr-gray 8 800 3000 500
+
+                            .contacts-info__element
+                                i.contacts-info__icon.icon-email
+                                .clr-gray info@appleru.com
+
+                    .borderline
+
+                    .social
+
+                        a(href="#", title="").social__button
+                            i.social__button-icon.icon-fb
+
+                        a(href="#", title="").social__button
+                            i.social__button-icon.icon-vk
+
+                        a(href="#", title="").social__button
+                            i.social__button-icon.icon-ok
+
+
+        script(src="./js/main.js")
+

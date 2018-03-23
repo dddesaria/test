@@ -1,0 +1,64 @@
+mixin item(title, url, counter, parent)
+    if parent == 1
+        li.menu__parent
+            a(href=url, class="menu__button")= title
+                if counter > 0
+                    .menu__button-counter= counter
+                span.menu__button-caret
+            ul.menu__level
+                a(href="#", title="").menu__button.menu__level-button Яблоко в религиях и мифологии
+                    .menu__level-icon.icon-menu1
+
+                a(href="#", title="").menu__button.menu__level-button Яблоко в фольклоре и литературе
+                    .menu__level-icon.icon-menu2
+
+                a(href="#", title="").menu__button.menu__level-button Яблоко как символ
+                    .menu__level-icon.icon-menu3
+
+                a(href="#", title="").menu__button.menu__level-button Яблоко в музыке и кинематографе
+                    .menu__level-icon.icon-menu4
+
+
+    else
+        li
+            a(href=url, class="menu__button")= title
+                if counter > 0
+                    .menu__button-counter= counter
+
+
+-var phone= "8 800 3000 500";
+
+
+doctype html
+html(lang="ru")
+    head
+        link(rel="shortcut icon", href="favicon.ico")
+        link(rel="stylesheet", href="https://fonts.googleapis.com/css?family=Roboto:400,500")
+        link(rel="stylesheet", href="./css/main.css")
+        meta(name="viewport", content="initial-scale=1.0, width=device-width")
+        meta(charset="UTF-8")
+        title Apple
+    body
+        header.header
+            .container.header__container
+                .row-flex.header__row
+                    div
+                        a(href="./", title="").header__logo
+                            .header__logo-img
+                                include img/logo.svg
+                    div
+                        nav.menu
+                            .scroll_bar
+                                ul
+                                    +item('Кулинария', '#', 2)
+                                    +item('Питательная ценность', '#')
+                                    +item('В искусстве', '#', 0, 1)
+                                    +item('В науке', '#')
+                                    +item('В политике и бизнесе', '#')
+                        .burger-toggle.show-sm
+                            span
+                    div
+                        a.header__phone= phone
+
+                .btn-up
+

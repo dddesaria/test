@@ -1,0 +1,18 @@
+<svg width="22" height="18" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-6050 -1324)">
+<g id="Clipped">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="a">
+<use xlink:href="#path0_fill" transform="translate(6049 1320)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="Shape" mask="url(#mask0_outline)">
+<use xlink:href="#path1_fill" transform="translate(6050 1324.5)" fill="#66BB6A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 24 0L 24 24L 0 24L 0 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 20 0.5C 18.89 0.15 17.67 0 16.5 0C 14.55 0 12.45 0.4 11 1.5C 9.55 0.4 7.45 0 5.5 0C 3.55 0 1.45 0.4 0 1.5L 0 16.15C 0 16.4 0.25 16.65 0.5 16.65C 0.6 16.65 0.65 16.6 0.75 16.6C 2.1 15.95 4.05 15.5 5.5 15.5C 7.45 15.5 9.55 15.9 11 17C 12.35 16.15 14.8 15.5 16.5 15.5C 18.15 15.5 19.85 15.8 21.25 16.55C 21.35 16.6 21.4 16.6 21.5 16.6C 21.75 16.6 22 16.35 22 16.1L 22 1.5C 21.4 1.05 20.75 0.75 20 0.5ZM 20 14C 18.9 13.65 17.7 13.5 16.5 13.5C 14.8 13.5 12.35 14.15 11 15L 11 3.5C 12.35 2.65 14.8 2 16.5 2C 17.7 2 18.9 2.15 20 2.5L 20 14Z"/>
+</defs>
+</svg>

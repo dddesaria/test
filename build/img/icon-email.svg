@@ -1,0 +1,10 @@
+<svg width="40" height="32" viewBox="0 0 40 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-2011 -5348)">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(2011 5348)" fill="#9B9B9B"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 36 0L 4 0C 1.8 0 0.02 1.8 0.02 4L 0 28C 0 30.2 1.8 32 4 32L 36 32C 38.2 32 40 30.2 40 28L 40 4C 40 1.8 38.2 0 36 0ZM 36 8L 20 18L 4 8L 4 4L 20 14L 36 4L 36 8Z"/>
+</defs>
+</svg>
