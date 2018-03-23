@@ -1,0 +1,10 @@
+<svg width="8" height="4" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" transform="translate(-1693 -335)">
+<g id="Triangle Copy 6">
+<use xlink:href="#path0_fill" transform="translate(1693 335)" fill="#66BB6A"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 3.99792 4L 0 0L 7.99584 0L 3.99792 4Z"/>
+</defs>
+</svg>
